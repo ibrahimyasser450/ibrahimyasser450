@@ -6,6 +6,28 @@
 
 **Building scalable backends, modern web applications, and real-world software solutions.**
 
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ibrahimyasser450">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ibrahim-yasser-13a957244">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://myportfolio-sage-mu-50.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:ibrahimyasser450@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ibrahimyasser450&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
