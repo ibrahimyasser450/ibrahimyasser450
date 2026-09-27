@@ -12,7 +12,9 @@
 
 </div>
 
+
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -22,13 +24,15 @@ My primary focus is **Node.js and Express.js**, while also working across the **
 
 I enjoy turning ideas into real products — from designing APIs and databases to implementing authentication, payments, real-time communication, and third-party integrations.
 
+
 ---
+
 
 ## ⚙️ Backend Expertise
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 API Development
 
@@ -43,7 +47,22 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 
 </td>
 
-<td width="60%" valign="top">
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+* MongoDB
+* Mongoose
+* MySQL
+* Database Modeling
+* CRUD Operations
+* Querying & Relationships
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Authentication & Security
 
@@ -56,23 +75,8 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 * Input Validation
 
 </td>
-</tr>
 
-<tr>
-<td width="60%" valign="top">
-
-### 🗄️ Databases
-
-* MongoDB
-* Mongoose
-* MySQL
-* Database Modeling
-* CRUD Operations
-* Querying & Relationships
-
-</td>
-
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔌 Integrations
 
@@ -89,6 +93,7 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 </table>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -126,6 +131,7 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 
 ---
 
+
 # 🚀 Selected Projects
 
 ## 🩺 Dactra
@@ -160,15 +166,10 @@ A full-stack doctor appointment booking platform designed to connect patients an
 
 ---
 
+
 ## 🧭 Tours
 
 ### Tour Booking & Travel Application
-
-<div align="center">
-
-<img src="./public/projects/tours.jpeg" width="850" />
-
-</div>
 
 A full-stack travel application focused on exploring tours, managing bookings, authentication, and building a complete backend-driven experience.
 
@@ -198,6 +199,7 @@ A full-stack travel application focused on exploring tours, managing bookings, a
 
 ---
 
+
 ## 📂 More Projects
 
 | Project                   | Description                      | Stack                            |
@@ -212,13 +214,16 @@ A full-stack travel application focused on exploring tours, managing bookings, a
 
 ---
 
+
 ## 🎓 Education
 
 **Faculty of Computers and Artificial Intelligence — Cairo University**
 
 Information Systems Department
 
+
 ---
+
 
 ## 🤝 Let's Connect
 
