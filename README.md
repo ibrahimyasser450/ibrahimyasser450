@@ -6,16 +6,6 @@
 
 **Building scalable backends, modern web applications, and real-world software solutions.**
 
-<br/>
-
-<a href="https://github.com/ibrahimyasser450">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="./public/Ibrahim_Yasser_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ibrahimyasser450&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
@@ -32,25 +22,13 @@ My primary focus is **Node.js and Express.js**, while also working across the **
 
 I enjoy turning ideas into real products — from designing APIs and databases to implementing authentication, payments, real-time communication, and third-party integrations.
 
-```text
-Backend Development
-        ↓
-API Design & Architecture
-        ↓
-Database & Business Logic
-        ↓
-Integrations & Services
-        ↓
-Production-ready Applications
-```
-
 ---
 
 ## ⚙️ Backend Expertise
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🚀 API Development
 
@@ -65,7 +43,7 @@ Production-ready Applications
 
 </td>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🔐 Authentication & Security
 
@@ -81,7 +59,7 @@ Production-ready Applications
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🗄️ Databases
 
@@ -94,7 +72,7 @@ Production-ready Applications
 
 </td>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🔌 Integrations
 
@@ -141,10 +119,10 @@ Production-ready Applications
 ### Libraries & Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=socketio,postman,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 </p>
 
-`Socket.IO` · `JWT` · `bcrypt` · `Multer` · `Stripe` · `Cloudinary` · `Email Services`
+`Postman` · `Git` · `GitHub` · `VSCode` · `Socket.IO` · `JWT` · `bcrypt` · `Multer` · `Stripe` · `Cloudinary` · `Email Services`
 
 ---
 
@@ -153,12 +131,6 @@ Production-ready Applications
 ## 🩺 Dactra
 
 ### Doctor Appointment Booking System
-
-<div align="center">
-
-<img src="./public/projects/dactra.jpeg" width="850" />
-
-</div>
 
 A full-stack doctor appointment booking platform designed to connect patients and doctors through a complete digital booking experience.
 
@@ -180,7 +152,7 @@ A full-stack doctor appointment booking platform designed to connect patients an
 <img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_DACTRA_LIVE_URL">
+<a href="https://dactra.vercel.app">
 <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -214,11 +186,11 @@ A full-stack travel application focused on exploring tours, managing bookings, a
 
 <div align="center">
 
-<a href="YOUR_TOURS_GITHUB_URL">
+<a href="https://github.com/ibrahimyasser450/tours">
 <img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_TOURS_LIVE_URL">
+<a href="https://tours-liart-nine.vercel.app">
 <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -228,13 +200,15 @@ A full-stack travel application focused on exploring tours, managing bookings, a
 
 ## 📂 More Projects
 
-| Project                   | Description                      | Stack                   |
-| :------------------------ | :------------------------------- | :---------------------- |
-| 💳 **Bankist**            | Interactive banking application  | JavaScript · HTML · CSS |
-| 🛒 **E-Commerce**         | Modern e-commerce experience     | React · Node.js         |
-| 🗺️ **Mapty**             | Location-based workout tracker   | JavaScript · Leaflet    |
-| 💰 **Kashier**            | Payment integration project      | Node.js · Payment API   |
-| 🎓 **Graduation Project** | Poultry disease detection system | Python · Django · ML    |
+| Project                   | Description                      | Stack                            |
+| :------------------------ | :------------------------------- | :------------------------------  |
+| 💳 **Chat App**           | Real-Time Messaging application  | Node.js · Express.js · Socket.IO |
+| 💰 **Kashier**            | Payment integration project      | Node.js · Payment API . Express.js|
+| 🎓 **Graduation Project** | Poultry disease detection system | Python · Django · ML . Flutter   |
+| 🛒 **E-Commerce**         | Modern e-commerce experience     | React · HTML . CSS . TailwindCSS |
+| 🗺️ **Mapty**              | Location-based workout tracker   | JavaScript · Leaflet . HTML . CSS|
+| 💳 **Bankist**            | Interactive banking application  | JavaScript · HTML · CSS . BootStrap|
+
 
 ---
 
@@ -254,15 +228,15 @@ Information Systems Department
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ibrahim-yasser-13a957244">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://myportfolio-sage-mu-50.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ibrahimyasser450@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -272,8 +246,10 @@ Information Systems Department
 
 <div align="center">
 
-### Building software with purpose. 🚀
+Build → Learn → Improve
 
-**by Ibrahim Yasser**
+<br/>
+
+by Ibrahim Yasser
 
 </div>
