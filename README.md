@@ -109,6 +109,7 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 * Multer
 * Third-Party APIs
 * Webhooks
+* node-cron
 
 </td>
 </tr>
@@ -149,7 +150,7 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 </p>
 
-`Postman` · `Git` · `GitHub` · `VSCode` · `Socket.IO` · `JWT` · `bcrypt` · `Multer` · `Stripe` · `Cloudinary` · `Email Services`
+`Postman` · `Git` · `GitHub` · `VSCode` · `Socket.IO` · `JWT` · `bcrypt` · `Multer` · `Stripe` · `Cloudinary` · `Email Services` . `node-cron`
 
 ---
 
