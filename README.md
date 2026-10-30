@@ -157,6 +157,41 @@ I enjoy turning ideas into real products — from designing APIs and databases t
 
 # 🚀 Selected Projects
 
+## 🍕 Pizza Delivery
+
+### Full-Stack Pizza Ordering & Inventory Management System
+
+A full-stack pizza delivery platform that allows customers to explore the menu, customize their own pizzas, place orders, and track their order status through a seamless online ordering experience.
+
+### ✨ Highlights
+
+`Pizza Menu` · `Custom Pizza Builder` · `Shopping Cart` · `Order Management`
+
+`Stripe Payments` · `Order Tracking` · `Authentication` · `Role-Based Access`
+
+`Inventory Management` · `Low Stock Alerts` · `Admin Dashboard` · `Cloudinary`
+
+### 🧰 Built With
+
+`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Stripe` `Cloudinary` `Socket.IO` `node-cron`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ibrahimyasser450/pizza-delivery">
+<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://pizza-delivery-coral.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+
 ## 🩺 Dactra
 
 ### Doctor Appointment Booking System
